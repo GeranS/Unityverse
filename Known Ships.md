@@ -20,6 +20,12 @@ FNV Java (FNRS-1900) - Active
 FNV Sumatra (FNRS-1901) - Active  
 FNV Jakarta (FNRS-1902) - Active  
 FNV Atjeh (FNRS-1903) - Active  
+FNV Surabaya (FNRS-1904)
+FNV Palembang (FNRS-1905)
+FNV Padang (FNRS-1906)
+FNV Bali (FNRS-1907)
+FNV Makassar (FNRS-1908)
+FNV Ternate (FNRS-1909)
 
 #### Győzelm-Class Escort Cruiser
 FNV Győzelm (FNRS-1950) - Active  
@@ -49,10 +55,4 @@ FNV Loki (FNRS-3313) - Active
 #### Ostoris-Class Logistics Freighter
 FNV Ostoris (FNRS-2513)  
 
-#### Unknown
-FNV Scirocco (FNRS-????) - ?  
-FNV Tachi (FNRS-????) - ?  
-FNV Shenzhen (FNRS-????) - ?  
-FNV Normandy (FNRS-????) - ?  
-FNV Nathan Hale (FNRS-????) - ?  
 

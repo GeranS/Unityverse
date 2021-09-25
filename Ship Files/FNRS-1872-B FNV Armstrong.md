@@ -34,9 +34,9 @@ Nagy Siska Inc Enhanced Bastion System consisting of 16 PD Lasers, 2 Micro-Canno
 3x Mk II Thunderbird-Class Medical Transport
 8x Mk I Ant-Class Construction Shuttle
 ##### Size
-Length: 599 meters
-Beam: 78 meters
-Height: 62 meters
+Length: 1135 meters
+Beam: 112 meters
+Height: 73 meters
 ## Crew
 ##### Officers: 312
 
