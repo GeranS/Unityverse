@@ -30,4 +30,5 @@ Should the Flight Assist exhibit unusual or unwanted behaviour, there are variou
 	2. Bridge data pin A2 to C7
 	3. Bridge data pin A31 to A32
 	4. Bridge data pin C35 to C36  
+
 Warning, Manual Flight Mode is an emergency measure only, do not engage if replacement Flight Assist Module replacement is available or existing module is still partially working.
