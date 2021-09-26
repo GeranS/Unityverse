@@ -15,7 +15,7 @@ Federal Technologies Class XI Experimental Deuterium-Helium-3 Reactor
 Federal Technologies Class VIII 
 ##### Sub-Light Engines
 4x Hachiman Labs FZ954 Engines
-12x Kaluhiwa & Ci Shipbuilders 350-10Y Thrusters
+12x Kaluhiwa & Co Shipbuilders 350-10Y Thrusters
 ##### Sensors
 La-matya Vahklas X34 Sensor System
 ##### Shields
