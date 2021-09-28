@@ -16,7 +16,7 @@ Commissioned in 2178 as a replacement for the even older Falken-class gunship, t
 Federal Technologies Class III Warp Core
 ##### Sub-Light Engines
 1x Terran Dynamics RTK-9 Fusion Torch Drive  
-Terran Dunamics S-400 Reaction Control Suite
+Terran Dynamics S-400 Reaction Control Suite
 ##### Delta-V
 4000 km/s
 ##### Sensors
@@ -26,7 +26,7 @@ Federal Technologies Class II Shield Generator
 ##### Point-Defense System
 6x Starfield Ballistics 40mm Point Defense Cannons
 ##### Armament
-3x Pender Arms Artmeis Torpedo Launchers
+3x Pender Arms Artemis Torpedo Launchers
 ##### Size
 Tonnage: 250 metric tons (dry mass)
 Length: 46 meters  
