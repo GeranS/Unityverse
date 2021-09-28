@@ -37,7 +37,7 @@ Kal-if-fee rituals generally involve inhaling, ingesting, or injecting miniscule
   
 The Kal-if-fee love to experiment, learn, and teach, and many in their society spend their days doing these things.  
   
-*Kal-if-fee Enlightened*
+*Kal-if-fee Enlightened*  
 ![Kal-if-fee](https://lh4.googleusercontent.com/OKKGNlHWzwIoHo857HEOH1Mvx4xfGR7p2Ovdferfv-AILrZ3AEUEKLab_RI10g27oJbKqEaX7uM2yQ8Ep4L4oGm7Dg5MUB6AmSoFvtuUECekygb4_vwef8mBzuWBUD36R_jg6MlV=s0)
 ### Humans
 Homeworld: Earth, which is exactly like you expect.  
@@ -68,7 +68,7 @@ Originally, the Nepenthe were non-sapient AI, used by their creators to perform 
   
 And then, after hundreds of years, something changed. One bot, a custodian of a long-abandoned office building, developed sapience. Soon after, an automated police unit half a continent away would do the same. Almost overnight, the robotic population of Nepenthe achieved sapience. Modelling their society off of their creators, the Nepenthe would soon take to the stars, to see if there was other life out there.  
   
-*A first-generation Nepenthe, originally built as an automated police unit, now an accountant*
+*A first-generation Nepenthe, originally built as an automated police unit, now an accountant*  
 ![Nepenthe](https://lh3.googleusercontent.com/SDEXYIGsmaJ3S_5ZnZnFZwwhd9ApszBTKeI-h29A-awW460RUOVIEOkDVBwzSIvwRr5n-KK-g4VsbufrYSgKAvBPCzH15JqJty-VvmZGkSKbNTsf9fjX-xAmu71rxZhwCexAG4oV=s0)
 ### Ōkina-Washi
 Homeworld: Nesuto, a subtropical world, where all landmass consists of floating islands lifted by an element dubbed “Suspendium” by Federation scientists. Below the islands, the rest of the world consists of ocean and ice, most of which has not been explored.  
@@ -78,5 +78,5 @@ Though the majority of Federation members have some form of democratic governmen
   
 Honour is an important concept in Ōkina-Washi society, from the poorest citizen to the Emperor themself, with anyone who repeatedly proves to be dishonourable being seen as a great villain. As a result, it is not unheard of for Ōkina-Washi leaders to butt heads with other Federation leaders over matters of honour, even as the Ōkina-Washi stay committed to the ideals of the Federation.  
   
-*Empress Nozomi of House Yoshimura*
+*Empress Nozomi of House Yoshimura*  
 ![Ōkina-Washi](https://lh3.googleusercontent.com/geBJxki4x9b0OiassQQ_Hl7f5mXpmVYcuGDkr_gBIBJbQ-orhVcLVeperkFKJQnDKQv0eCgDFKomQAH3AOMKZd6b-U5pR4zvs-XDRbw6j7eAdVZMQtyRkSANiyl1_EyQzQ95H2WZ=s0)
