@@ -9,7 +9,7 @@ Operators: Federal navy
 Built: 2176-2198  
 In Service: 2178-Present  
 
-Commissioned in 2178 as a replacement for the even older Falken-class gunship, the Wyvern has served the Federal navy faithfully for 4 decades, having become a common sight in many federation star systems. Despite being limited to local system operations only, the Wyvern has proven capable of serving in many rules, such as missile and fighter defense, customs enforcement, law enforcement, and limited reconnaissance operations. Well-liked by personnel for its speed, maneuverability, and versatility, the Wyvern has received numerous upgrades throughout its service life, but as it enters its 5th decade of service, it’s age has started to show, with many Wyvern’s requiring extensive maintenance to maintain peak combat conditions. As such, the Wyvern is being phased out in favour of the newer Morgan-class gunships.
+Commissioned in 2178 as a replacement for the even older Falken-class gunship, the Wyvern has served the Federal navy faithfully for 4 decades, having become a common sight in many federation star systems. Despite being limited to local system operations only, the Wyvern has proven capable of serving in many rules, such as missile and fighter defense, customs enforcement, law enforcement, and limited reconnaissance operations. Well-liked by personnel for its speed, maneuverability, and versatility, the Wyvern has received numerous upgrades throughout its service life, but as it enters its 5th decade of service, its age has started to show, with many Wyvern’s requiring extensive maintenance to maintain peak combat conditions. As such, the Wyvern is being phased out in favour of the newer Morgan-class gunships.
 ## Standard Specifications
 ##### Reactor
 ##### Warp Core
