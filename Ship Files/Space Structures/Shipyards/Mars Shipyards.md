@@ -6,7 +6,7 @@ Solar General Industries
 Federal Technologies  
 Solar General Industries  
 Terran Dynamics  
-Centair-Neucomm  
+Centauri-Neucomm  
 SinoViet  
 Pender Arms  
 Aragon Armaments  
