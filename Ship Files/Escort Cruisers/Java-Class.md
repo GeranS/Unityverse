@@ -3,6 +3,12 @@
 
 # Java-Class
 ## Description
+Builders: Federal Technologies, Mars Shipyard  
+Operators: Federal Navy  
+Built: 2191-Present  
+In Service: 2193-Present
+
+
 The Java-Class Escort Cruiser was designed as a replacement for the aging Munckalló-Class. While not the most powerful or fastest ship, it's remarkably sturdy, modular, and cheap to produce.  
 It's standard configuration is that of a warship, but common variants include medical ships, rapid transport ships, research ships, and upgunned torpedo batteries.  
 ## Standard Specifications
@@ -28,6 +34,7 @@ Nagy Siska Inc Protector System consisting of 8 PD Lasers and 10 Flak Cannons
 4x Mk III Firehawk-Class Multi-Role Fighter  
 2x Mk II Thunderbird-Class Transport  
 ##### Size
+Tonnage: 26000 metric tons (dry mass)
 Length: 247 meters  
 Beam: 54 meters  
 Height: 39 meters  
