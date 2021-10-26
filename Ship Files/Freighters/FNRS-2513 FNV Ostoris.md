@@ -6,7 +6,7 @@
 
 Commissioning: 2157
 
-Fate: Active Service
+Fate: Destroyed (24-10-2119)
 ## Deployment History
 
 ## Specifications
